@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import Feed from "./Feed";
-import Sidebar from "./Sidebar";
+import Feed from "./components/Feed/Feed";
+import Sidebar from "./components/Sidebar/Sidebar";
 
 function App() {
   return (
