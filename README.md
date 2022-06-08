@@ -29,4 +29,4 @@ You can view the site here
 
 Ozan Gürsucu (ozngrsc)
 
-<img src="src/images/screenshot.png"  width= 500px height= 400px>
+<img src="src/screenshot.png"  width= 500px height= 400px>
