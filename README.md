@@ -1,4 +1,4 @@
-# Twitter-Clone
+# Twitter-Clone <a href = 'https://twitter.com/OznGrsc_'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 
 Click demo to try it by yourself!
 
