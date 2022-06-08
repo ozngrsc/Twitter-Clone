@@ -14,12 +14,13 @@ You can view the site here
 - ReactJS
 - JavaScript
 - React Flip Move
-- Firebase - Cloud Firestore Database
+- Firebase - Realtime Firestore Database
 - React Twitter Embed
 - React Hooks Functional(Hooks, State)
 - React Router
 - React Icons
 - Material UI
+- CSS Variables
 - Responsive Design
 - Deploy the App Live on Firebase
 
